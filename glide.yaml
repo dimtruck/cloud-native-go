@@ -1,2 +1,3 @@
-package: .
-import: []
+package: github.com/cloud-native-go
+import:
+- package: github.com/op/go-logging
